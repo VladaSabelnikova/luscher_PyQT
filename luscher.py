@@ -55,7 +55,7 @@ class Window(QMainWindow):
     def __init__(self):
         super().__init__()
 
-        self.setMinimumSize(850, 800)
+        self.setMinimumSize(850, 850)
 
         self.setCentralWidget(UserInterface())
         self.setWindowTitle('Тест Люшера-Деллингер')
