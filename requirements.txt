@@ -1,0 +1,5 @@
+PyQT5==5.15.4
+flake8==3.9.2
+PyQt5-stubs==5.15.2.0
+pyqt5-tools==5.15.4.3.2
+Pillow==8.3.2
